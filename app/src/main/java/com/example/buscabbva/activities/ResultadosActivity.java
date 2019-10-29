@@ -1,8 +1,10 @@
-package com.example.buscabbva;
+package com.example.buscabbva.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.buscabbva.R;
 
 public class ResultadosActivity extends AppCompatActivity {
 
